@@ -1,0 +1,15 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: The established ordinary successful use of one capability.
+- id: path
+  name: Path
+  description: A supported alternative route or condition with its specific observable
+    outcome.
+- id: validation
+  name: Validation
+  description: An input or access prerequisite produces the established refusal.
+- id: exception
+  name: Exception
+  description: A conflict, interruption, unavailable dependency or failure produces
+    its established outcome.
