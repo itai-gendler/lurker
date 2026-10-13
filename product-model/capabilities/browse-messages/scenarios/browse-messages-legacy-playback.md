@@ -3,7 +3,7 @@ kind: path
 routes:
   irc: IRC bouncer
 steps:
-- text: The established presence or startup condition is observed.
+- text: The downstream client attached without negotiating the chathistory extension.
   kind: condition
   entities: []
   contexts: &id001
